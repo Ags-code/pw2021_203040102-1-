@@ -18,7 +18,7 @@ $mahasiswa = [
         "jurusan" => "Teknik Informatika",
         "gambar" => "yukino.png"
     ],
-]
+];
 ?>
 <!DOCTYPE html>
 <html lang="en">
